@@ -8,3 +8,4 @@ colorama
 SQLAlchemy
 SQLAlchemy_utils
 mysql-connector-python
+werkzueg
