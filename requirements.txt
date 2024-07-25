@@ -1,7 +1,7 @@
 fastapi
 fastapi-jwt-auth
 starlette
-pydantic
+pydantic==1.10.15
 typing-extensions
 asgiref
 click
