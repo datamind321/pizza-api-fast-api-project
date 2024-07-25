@@ -10,3 +10,5 @@ SQLAlchemy
 SQLAlchemy_utils
 mysql-connector-python
 Werkzeug
+psycopg2
+psycopg2-binary
