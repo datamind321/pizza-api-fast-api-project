@@ -8,6 +8,11 @@ from fastapi import FastAPI
 from fastapi.routing import APIRoute
 from fastapi.openapi.utils import get_openapi
 
+from database import engine,Base
+from models import User,Order
+
+Base.metadata.create_all(bind=engine)    
+
 app=FastAPI()
 
 
