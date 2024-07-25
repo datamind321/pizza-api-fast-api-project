@@ -1,4 +1,5 @@
 fastapi
+fastapi-jwt-auth
 starlette
 pydantic
 typing-extensions
