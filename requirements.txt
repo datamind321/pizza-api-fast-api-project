@@ -1,0 +1,9 @@
+fastapi
+starlette
+pydantic
+typing-extensions
+asgiref
+click
+colorama
+SQLAlchemy
+SQLAlchemy_utils
